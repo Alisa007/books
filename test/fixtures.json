@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Big numbers",
+    "pagesCount": 238,
+    "publisher": "Pearson Education",
+    "publishedAt": 1998,
+    "printedAt": "2014-04-01T08:12:40.138Z",
+    "isbn": 1234567890,
+    "cover": "https://images-na.ssl-images-amazon.com/images/G/01/img15/pet-products/small-tiles/30423_pets-products_january-site-flip_3-cathealth_short-tile_592x304._CB286975940_.jpg",
+    "authors": [
+      {
+        "firstName": "John",
+        "lastName": "Johnson"
+      }
+    ]
+  }, {
+    "title": "Structure of Computer Programs",
+    "pagesCount": 398,
+    "publisher": "MIT Press",
+    "publishedAt": 1881,
+    "printedAt": "1979-07-06T08:11:41.128Z",
+    "isbn": 9876543214321,
+    "authors": [
+      {
+        "firstName": "Gerald Jay",
+        "lastName": " Sussman"
+      }, {
+        "firstName": "Hal",
+        "lastName": "Abelson"
+      }
+    ]
+  }, {
+    "title": "Computer Programming",
+    "pagesCount": 106,
+    "publisher": "Addison-Wesley",
+    "publishedAt": 2015,
+    "printedAt": "2001-12-01T08:12:41.128Z",
+    "isbn": 9895636371461,
+    "cover": "https://www.petfinder.com/wp-content/uploads/2012/11/140272627-grooming-needs-senior-cat-632x475.jpg",
+    "authors": [
+      {
+        "firstName": "Donald",
+        "lastName": "Knuth"
+      }
+    ]
+  }
+]

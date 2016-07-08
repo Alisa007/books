@@ -1,0 +1,65 @@
+{
+  "name": "csv",
+  "private": true,
+  "scripts": {
+    "start": "open http://localhost:1337; node app.js",
+    "test": "mocha",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "version": "5.3.0",
+  "engines": {
+    "node": ">= 4.0.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.12.0",
+    "bootstrap": "^4.0.0-alpha.2",
+    "express": "^4.14.0",
+    "fs": "0.0.2",
+    "rc": "^1.1.6",
+    "react": "^15.2.0",
+    "react-dom": "^15.2.0",
+    "react-dropzone": "^3.5.1",
+    "react-redux": "^4.4.5",
+    "redux": "^3.5.2",
+    "redux-form": "^5.3.1",
+    "redux-localstorage": "^0.4.1",
+    "redux-logger": "^2.6.1",
+    "redux-thunk": "^2.1.0",
+    "sails": "^0.12.3",
+    "sails-disk": "^0.10.10"
+  },
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "babel-core": "^6.10.4",
+    "babel-loader": "^6.2.4",
+    "babel-plugin-transform-async-to-generator": "^6.8.0",
+    "babel-plugin-transform-class-properties": "^6.10.2",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0",
+    "babel-plugin-transform-runtime": "^6.9.0",
+    "babel-preset-es2017": "^1.4.0",
+    "babel-preset-react": "^6.11.1",
+    "chai-spies": "^0.7.1",
+    "css-loader": "^0.23.1",
+    "fixed-data-table": "^0.6.1",
+    "html-loader": "^0.4.3",
+    "html-webpack-plugin": "^2.21.0",
+    "jsdom": "^9.3.0",
+    "jshint": "^2.8.0",
+    "mocha": "^2.2.4",
+    "nock": "^8.0.0",
+    "node-sass": "^3.8.0",
+    "react-addons-test-utils": "^15.2.0",
+    "redux-mock-store": "^1.1.2",
+    "sass-loader": "^4.0.0",
+    "style-loader": "^0.13.1",
+    "supertest": "^1.2.0",
+    "webpack": "^1.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Alisa007/csv.git"
+  },
+  "author": "alisabelousova"
+}

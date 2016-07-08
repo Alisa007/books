@@ -1,0 +1,22 @@
+@import "../node_modules/bootstrap/scss/bootstrap-flex";
+
+.uploader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200px;
+  border: 2px dashed rgb(102, 102, 102);
+}
+
+input[type="date"] {
+  height: 40px;
+}
+
+.react-bs-table-tool-bar,
+.react-bs-table {
+  margin: 0;
+}
+
+.react-bs-table-tool-bar {
+  margin-bottom: 16px;
+}

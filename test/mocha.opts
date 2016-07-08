@@ -1,0 +1,8 @@
+--require chai
+--reporter dot
+--ui bdd
+--debug
+--timeout 5s
+--require test/bootstrap.test.js
+--compilers jsx:babel-register
+--recursive
